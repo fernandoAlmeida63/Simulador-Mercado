@@ -1,4 +1,4 @@
-# SIMULADOR DE SUPERMERCADO 🪙🌱
+# SIMULADOR DE SUPERMERCADO 🏪
 
 O simulador é um sistema de gerenciamento de estoque e vendas que permite a um usuário (gerente ou vendedor) realizar diversas operações relacionadas a produtos, controle de estoque e vendas.
 
